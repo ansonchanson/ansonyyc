@@ -2124,10 +2124,10 @@
         }
     ],
     "lives": [
-      {
-            "name": "自用ipv6",
+        {
+            "name": "自用V6",
             "type": 0,
-            "url": "https://codeberg.org/ansonchan/main/raw/branch/main/Live/Ahaha",
+            "url": "https://codeberg.org/ansonchan/ANkk/raw/branch/main/Live/Ahaha",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 2,
