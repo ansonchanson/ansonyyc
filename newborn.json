@@ -2123,16 +2123,16 @@
             ]
         }
     ],
-    "lives": [
-        {
-            "name": "自用V6",
-            "type": 0,
-            "url": "https://codeberg.org/ansonchan/ANkk/raw/branch/main/Live/Ahaha",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        }
+  "lives": [
+    {
+      "name": "拾光自用",
+      "type": 0,
+      "url": "https://codeberg.org/ansonchan/Anmkk/raw/branch/main/Live/Ahaha",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    }
     ],
     "flags": [
         "youku",
