@@ -502,6 +502,16 @@
             "filterable": 1
         },
         {
+            "key": "HG影视",
+            "name": "HG影视｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+        },
+        {
            "key": "酷影视",
            "name": "酷影视｜APP",
            "type": 3,
