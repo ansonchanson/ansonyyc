@@ -105,6 +105,43 @@
       "filterable": 1,
       "playerType": 2
     },
+    {
+      "key": "布蕾",
+      "name": "布蕾｜影视",
+      "type": 3,
+      "api": "./Js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./Js/bulei.js"
+    },
+    {
+      "key": "金牌影视",
+      "name": "金牌｜影视",
+      "type": 3,
+      "api": "./Py/jp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
+    },
+    {
+      "key": "csp_CZSPP",
+      "name": "厂长｜影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "jar": "./Jar/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"
+    },
 
         {
       "key": "再看",
