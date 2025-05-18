@@ -35,6 +35,18 @@
                 "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
             }
         },
+         {
+      "key": "csp_追忆",
+      "name": "追忆｜4K",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "./js/zy.js",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "./txt/syapi.txt"
+    },
         {
             "key": "热播弹幕",
             "name": "热播｜弹幕",
