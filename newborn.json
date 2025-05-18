@@ -47,6 +47,52 @@
       "filterable": 1,
       "ext": "./txt/syapi.txt"
     },
+    {
+      "key": "仓鼠",
+      "name": "仓鼠｜4K",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "jar": "https://lz.qaiu.top/d/lz/i0fR72vesc2f",
+      "ext": {
+        "url": "https://appcms.cs4k.top",
+        "dataKey": "Hui6595253......",
+        "dataIv": "Hui6595253......",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "csp_晴天2",
+      "name": "晴天｜4K",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "./Js/qt.js",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://appcms.sun4k.top"
+    },
+    {
+      "key": "小慧",
+      "name": "小慧｜4K",
+      "type": 1,
+      "api": "http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list",
+      "playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
+    },
+    {
+      "key": "边缘影视",
+      "name": "边缘｜2K",
+      "type": 3,
+      "api": "./Py/bianyuan.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+
         {
       "key": "再看",
       "name": "再看｜APP",
@@ -62,8 +108,7 @@
         "version": "110"
       }
     },
-
-        {
+  {
             "key": "热播弹幕",
             "name": "热播｜弹幕",
             "type": 3,
