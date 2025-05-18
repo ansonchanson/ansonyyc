@@ -121,7 +121,7 @@
       "key": "金牌影视",
       "name": "金牌｜影视",
       "type": 3,
-      "api": "./Py/jp.py",
+      "api": "https://codeberg.org/ansonchan/Anmkk/raw/branch/main/Py/jp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
