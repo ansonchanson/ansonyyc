@@ -48,6 +48,22 @@
       "ext": "./txt/syapi.txt"
     },
         {
+      "key": "再看",
+      "name": "再看｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "jar": "https://codeberg.org/ansonchan/Anmkk/src/branch/main/Jar/iYN8l2uteydi.jar",
+      "ext": {
+        "url": "http://149.88.64.161:8627",
+        "dataKey": "123456789ABCDEFG",
+        "dataIv": "123456789ABCDEFG",
+        "deviceId": "2bb4c10f3e043307dbfc579bd0db23f4e",
+        "version": "110"
+      }
+    },
+
+        {
             "key": "热播弹幕",
             "name": "热播｜弹幕",
             "type": 3,
