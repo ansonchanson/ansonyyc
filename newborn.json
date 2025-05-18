@@ -53,7 +53,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "jar": "./Jar/iYN8l2uteydi.jar",
+      "jar": "./Jar/iYN8l2uteydi",
       "ext": {
         "url": "http://149.88.64.161:8627",
         "dataKey": "123456789ABCDEFG",
