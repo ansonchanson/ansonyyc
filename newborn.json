@@ -81,6 +81,19 @@
       "api": "http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list",
       "playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
     },
+
+    {
+      "key": "狐狸君",
+      "name": "狐狸｜4K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://lz.qaiu.top/d/lz/i0fR72vesc2f",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./Json/6v.json"
+    },
     {
       "key": "边缘影视",
       "name": "边缘｜2K",
