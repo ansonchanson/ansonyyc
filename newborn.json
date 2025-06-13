@@ -181,24 +181,6 @@
             }
         }, 
         {
-           "key": "爱看机器人",
-           "name": "爱看｜影视",
-           "type": 3,
-           "api": "csp_IkanBot",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1
-        },
-       {
-          "key": "南瓜影视",
-           "name": "南瓜｜影视",
-           "type": 3,
-           "api": "csp_NanGua",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1
-       },
-        {
             "key": "低端影视",
             "name": "低端｜影视",
             "type": 3,
@@ -236,7 +218,7 @@
         },
         {
             "key": "樱花影视",
-            "name": "樱花｜影视🪜",
+            "name": "樱花｜影视",
             "type": 3,
             "api": "csp_Lggys",
             "searchable": 1,
@@ -248,15 +230,6 @@
             "name": "看客｜影视",
             "type": 3,
             "api": "csp_Kanke",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "饺子影视",
-            "name": "饺子｜影视",
-            "type": 3,
-            "api": "csp_Jiaozi",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -352,44 +325,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "思古影视",
-            "name": "思古｜影视",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/思古影视.js"
-        },
-        {
-            "key": "魔力高清",
-            "name": "魔力｜影视",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/魔力高清.js"
-        },
-        {
-            "key": "碟调影视",
-            "name": "碟调｜影视",
-            "type": 3,
-            "api": "./Js/drpy2.min.js",
-            "ext": "./Js/碟调影视.js"
-        },
-        {
-            "key": "电影牛",
-            "name": "电影牛｜影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./Json/电影牛.json"
-        },
-        {
-            "key": "素白白",
-            "name": "素白白｜影视",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/素白白.js"
         },
         {
             "key": "剧圈圈",
