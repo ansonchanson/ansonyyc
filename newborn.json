@@ -22,101 +22,6 @@
                 "danmu": false
             }
         },
-        {
-            "key": "天天弹幕",
-            "name": "天天｜弹幕",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": false,
-                "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
-            }
-        },
-         {
-      "key": "csp_追忆",
-      "name": "追忆｜4K",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "api": "./js/zy.js",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "./txt/syapi.txt"
-    },
-    {
-      "key": "仓鼠",
-      "name": "仓鼠｜4K",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "https://lz.qaiu.top/d/lz/i0fR72vesc2f",
-      "ext": {
-        "url": "https://appcms.cs4k.top",
-        "dataKey": "Hui6595253......",
-        "dataIv": "Hui6595253......",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "csp_晴天2",
-      "name": "晴天｜4K",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "api": "./Js/qt.js",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://appcms.sun4k.top"
-    },
-    {
-      "key": "小慧",
-      "name": "小慧｜4K",
-      "type": 1,
-      "api": "http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list",
-      "playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
-    },
-
-    {
-      "key": "狐狸君",
-      "name": "狐狸｜4K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://lz.qaiu.top/d/lz/i0fR72vesc2f",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./Json/6v.json"
-    },
-    {
-      "key": "边缘影视",
-      "name": "边缘｜2K",
-      "type": 3,
-      "api": "./Py/bianyuan.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "csp_CZSPP",
-      "name": "厂长｜影视",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "jar": "./Jar/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"
-    },
 
         {
       "key": "再看",
@@ -133,69 +38,6 @@
         "version": "110"
       }
     },
-    {
-      "key": "金牌影视",
-      "name": "金牌｜影视",
-      "type": 3,
-      "api": "./Py/jp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-      }
-    },
-  {
-            "key": "热播弹幕",
-            "name": "热播｜弹幕",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": false,
-                "site": "aHR0cDovL3YucmJvdHYuY24="
-            }
-        },
-        {
-            "key": "浪酷弹幕",
-            "name": "浪酷｜弹幕",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": false,
-                "site": "aHR0cDovL3YubGt1eXMuY24="
-            }
-        },
-        {
-            "key": "糯米弹幕",
-            "name": "糯米｜弹幕",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": false
-            }
-        },
-        {
-            "key": "文才弹幕",
-            "name": "文才｜弹幕",
-            "type": 3,
-            "api": "csp_Jpys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": false
-            }
-        },
         {
             "key": "哔哩弹幕",
             "name": "哔哩｜弹幕",
@@ -209,25 +51,9 @@
                 "ratio": 1.597
             },
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/biJsili.txt"
             },
             "timeout": 10
-        },
-        {
-            "key": "立播弹幕",
-            "name": "立播｜弹幕",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://www.libvio.cc",
-                "danmu": false
-            }
         },
         {
             "key": "腾讯弹幕",
@@ -887,8 +713,8 @@
             "key": "碟调影视",
             "name": "碟调｜影视",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/碟调影视.js"
+            "api": "./Js/drpy2.min.js",
+            "ext": "./Js/碟调影视.js"
         },
         {
             "key": "电影牛",
@@ -898,7 +724,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/电影牛.json"
+            "ext": "./Json/电影牛.json"
         },
         {
             "key": "素白白",
@@ -911,29 +737,29 @@
             "key": "剧圈圈",
             "name": "剧圈圈｜影视",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/剧圈圈.js"
+            "api": "./Js/drpy2.min.js",
+            "ext": "./Js/剧圈圈.js"
         },
         {
             "key": "追剧迷",
             "name": "追剧迷｜影视",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/追剧迷.js"
+            "api": "./Js/drpy2.min.js",
+            "ext": "./Js/追剧迷.js"
         },
         {
             "key": "看了么",
             "name": "看了么｜影视",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/看了么.js"
+            "api": "./Js/drpy2.min.js",
+            "ext": "./Js/看了么.js"
          },
          {
             "key": "茶杯狐",
             "name": "茶杯狐｜影视",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/茶杯狐.js"
+            "api": "./Js/drpy2.min.js",
+            "ext": "./Js/茶杯狐.js"
          },
         {
             "key": "1905",
@@ -1665,7 +1491,7 @@
                     "芒果",
                     "tnmb",
                     "seven",
-                    "bilibili",
+                    "biJsili",
                     "1905"
                 ],
                 "header": {
@@ -1694,7 +1520,7 @@
                     "芒果",
                     "tnmb",
                     "seven",
-                    "bilibili",
+                    "biJsili",
                     "1905"
                 ],
                 "header": {
@@ -1723,7 +1549,7 @@
                     "芒果",
                     "tnmb",
                     "seven",
-                    "bilibili",
+                    "biJsili",
                     "1905"
                 ],
                 "header": {
@@ -2041,7 +1867,7 @@
         "imgo",
         "芒果TV",
         "芒 果 T V",
-        "bilibili",
+        "biJsili",
         "哔 哩",
         "哔 哩 哔 哩"
     ],
