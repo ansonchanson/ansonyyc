@@ -56,34 +56,6 @@
             "timeout": 10
         },
         {
-            "key": "腾讯弹幕",
-            "name": "腾讯｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/腾讯弹幕.js"
-        },
-        {
-            "key": "优酷弹幕",
-            "name": "优酷｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/优酷弹幕.js"
-        },
-        {
-            "key": "芒果弹幕",
-            "name": "芒果｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/芒果弹幕.js"
-        },
-        {
-            "key": "爱奇艺弹幕",
-            "name": "爱奇艺｜弹幕",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/爱奇艺弹幕.js"
-        },
-        {
             "key": "米兔弹幕",
             "name": "米兔｜弹幕",
             "type": 3,
