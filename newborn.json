@@ -1,4 +1,4 @@
-﻿{
+{
     "spider": "./spider.jar",
     "wallpaper": "http://wenxintongxue.serv00.net/image",
     "logo": "https://4708.kstore.space/logo.gif",
@@ -9,7 +9,7 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
-        },
+       },
         {
             "key": "厂长弹幕",
             "name": "厂长｜弹幕",
@@ -51,7 +51,7 @@
                 "ratio": 1.597
             },
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/biJsili.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
             },
             "timeout": 10
         },
@@ -63,6 +63,18 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
+            "ext": {
+                "danmu": false
+            }
+        },
+        {
+            "key": "机器人弹幕",
+            "name": "机器人｜弹幕",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": {
                 "danmu": false
             }
@@ -87,6 +99,13 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
+        },
+        {
+            "key": "吉吉短剧",
+            "name": "吉吉｜短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/吉吉短剧.json"
         },
         {
             "key": "爱我短剧",
@@ -125,12 +144,12 @@
             "filterable": 1
         },
         {
-            "key": "雨滴",
-            "name": "雨滴｜App",
+            "key": "图图",
+            "name": "图图｜App",
             "type": 3,
-            "api": "csp_Xdai",
+            "api": "csp_APPTT",
             "playerType": 1,
-            "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
+            "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
         },
         {
             "key": "蝴蝶",
@@ -139,6 +158,26 @@
             "api": "csp_Hudie",
             "playerType": 2,
             "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+        },
+        {
+            "key": "站长影视",
+            "name": "站长｜APP",
+            "type": 3,
+            "api": "csp_AppGetApp",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KdacOcw57CrMKxw6DCqmbCnmPDpsKow6XCsMKywpRhYMKUwqfDl8Ozw7LDtGVewpPCn8Omwq3Cr8KvwrJsX8KRwqDDosKhw6rDocOqVVxSecOnw5zDrsOQw6nCpcKUUmrCm8KVwqbCm8OuwpzCoFJqwpvDjuWHv+mFoeaQn+WQllzlhpzkvYflkbDCreW/q+iov+i2vua7g+esicKNUsKlwpXCu8Oew61+wpXCqVLCs8KVw57DssOzwq3CpMKmwpHDqcOcw5vDqcOqwqzCqcKUwqPCm8KfwpzCusOfwqZ5wqZSwrPClcOew7LDs8KtwqTCpsKRw6nDnMObw6nDqsKswqnClMKjwpvDsA=="
+        },
+        {
+            "key": "多多影视",
+            "name": "多多｜APP",
+            "type": 3,
+            "api": "csp_AppGetApp",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgwrPCosKpwqvCq2ReaWnCp8KswrLCp8KuamppacKywqzCqcOaw6rCnF7CpMKow63CmsKmwpnCocKGwpnCpMKVw47DpcOmwqDCtFNXV1zCmcKaw4PDp8OjwqfCh8KfwqLDncKawrTCmcKhwpzCnsKZwqTDj8KkwqvCssKhX1BXwqTDosOjwqHCs8KaWsKL5Ya16YSY5pCe5ZGWwqblh6XkvpHlkKpq5b6h6Ke26La95ryD562Tw5bCoV9QV3HDnsOmw4XDnsOzWmpQV8OewqfCsMKqw51qwpNgwpXDn8Kjw5zCr8OdwpdhV1zCmcKawrvDnsOtfMKmV2rCmcKaw5/CrcKwZMKTZ8KTwqnDmMOgwqnDnGnCk8KUYcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7LDlMOpw7DDm8KhwpdgYcKrwqnCocO2"
         },
         {
             "key": "悠悠影视",
@@ -180,15 +219,6 @@
                 "ratio": 1.597
             }
         }, 
-        {
-            "key": "低端影视",
-            "name": "低端｜影视",
-            "type": 3,
-            "api": "csp_Ddys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "快看影视",
             "name": "快看｜影视",
@@ -330,8 +360,8 @@
             "key": "剧圈圈",
             "name": "剧圈圈｜影视",
             "type": 3,
-            "api": "./Js/drpy2.min.js",
-            "ext": "./Js/剧圈圈.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/剧圈圈.js"
         },
         {
             "key": "1905",
@@ -548,16 +578,6 @@
             "ext": "./XBPQ/哆啦新番社.json"
         },
         {
-            "key": "曼波动漫",
-            "name": "曼波｜动漫",
-            "type": 3,
-            "api": "csp_AppGetApp",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KRwqDDqcKhw6nDpsOpwpnCpcKeYcKnw6fDqcOpwqnClMKgwplew6nDm8OqwpvCplXCpMKZwqDCm8KtwpzDlOWHv+mEm+aPleWQk1zlh6XkvorlkbHCs+W/q+inuei1tOa7gOesicOWwpXCpsKbwrvCmMKje8KVw7LClcK0wpvCsGnClMKTY8KpwqzDncObw5/CmMKTwpFkwq7Cp8KcwqXCnHTClcKjecOvwpXCtMKbwrBpwpTCk2PCqcKsw53Dm8OfwpjCk8KRZMKuwqfCnMO2"
-        },
-        {
             "key": "稀饭动漫",
             "name": "稀饭｜动漫",
             "type": 3,
@@ -566,13 +586,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw7HDoMKUwqDCoF3CqsKmwqrCrsKtbGBgZsKuwqHDncOow61hwpHCoF3DoMOow5vDp8Ohwq3CmMKfwqXCp8Ogw7PDqsOdwp/Cn8KlwpTCp8OWw6nDpsKpwprClcKkwpHDqcOjwqjDrcOywqdSXFLDgsOhw6PDrcORwqLCosKUUsKzwpXCnMKlwpzCp8KZwqBSwrPClcOV5Ye+6YWi5o+Y5ZCTXOWGnOS+kOWRqsK05b+q6KmA6LW35ruA56yJwo3Cm8KfwpzCusOfwqZ7wpXCqcKbwq3CnMKqw7PCjWLCg8Kgw6fCrMOlw6vDqMKtwoZ7wp/CvMKVwqbCm8K7wpjCo3nCpsKbwq3CnMKqw7PCjWLCg8Kgw6fCrMOlw6vDqMKtwoZ7wp/CvMKVwqbCm8ONwpzCpMKVwoXDq8OfwpzCs8KcVcKt"
-        },
-        {
-            "key": "动画片",
-            "name": "动画片｜动漫",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/动画片大全.js"
         },
         {
             "key": "修罗影视",
@@ -824,7 +837,7 @@
                     "芒果",
                     "tnmb",
                     "seven",
-                    "biJsili",
+                    "bilibili",
                     "1905"
                 ],
                 "header": {
@@ -853,7 +866,7 @@
                     "芒果",
                     "tnmb",
                     "seven",
-                    "biJsili",
+                    "bilibili",
                     "1905"
                 ],
                 "header": {
@@ -882,7 +895,7 @@
                     "芒果",
                     "tnmb",
                     "seven",
-                    "biJsili",
+                    "bilibili",
                     "1905"
                 ],
                 "header": {
@@ -1200,7 +1213,7 @@
         "imgo",
         "芒果TV",
         "芒 果 T V",
-        "biJsili",
+        "bilibili",
         "哔 哩",
         "哔 哩 哔 哩"
     ],
