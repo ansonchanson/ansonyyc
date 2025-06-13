@@ -614,13 +614,6 @@
             "filterable": 1
         },
         {
-            "key": "磁力熊",
-            "name": "磁力熊｜磁力",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/磁力熊.js"
-        },
-        {
             "key": "美剧迷",
             "name": "美剧迷｜磁力",
             "type": 3,
