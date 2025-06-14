@@ -1175,7 +1175,7 @@
     {
       "name": "拾光自用",
       "type": 0,
-      "url": "./Live/Ahaha",
+      "url": "./Lives/Lives",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 2,
