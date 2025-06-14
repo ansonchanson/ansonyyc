@@ -4,7 +4,7 @@
   "sites": [
 {"key":"乐播","name":"乐播(切)","type":1,"api":"https://lbapi9.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"丝袜资源","name":"丝袜资源(切)","type":1,"api":"https://siwazyw.tv/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
-{"key":"奥斯卡资源","name":"奥斯卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+{"key":"奥斯卡资源","name":"奥斯卡资源","type":0,"api":"https://aosikazy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
 {"key":"精工厂资源","name":"精工厂资源(切)","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"点点娱乐","name":"点点娱乐(切)","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"淫人妻资源","name":"淫人妻资源(切)","type":0,"api":"http://www.yrqcaiji.com/home/cjapi/s6c7/mc10/vod/xml","searchable":1,"quickSearch":1},
