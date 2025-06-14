@@ -55,7 +55,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./Json/duboku.json"
+      "ext": "./json/duboku.json"
     },
     {
       "key": "aoo.qoqoavideo2.sbs",
@@ -72,7 +72,7 @@
         "分类url": "https://w15o.qoqoavideo2.xyz/vodtype/{cateId}/page/{catePg}.html",
         "分类": "中文字幕$154#国产情色$151#日本无码$162#动漫$150#国产传媒$146#少女萝莉$164"
       },
-      "jar": "./Jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c"
+      "jar": "./jar/顶级国产.jar;md5;6e12873c628020196fe9400d1ef51f1c"
     },
     {
       "key": "msv ",
