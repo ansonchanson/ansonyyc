@@ -4,11 +4,7 @@
   "sites": [
 {"key":"乐播","name":"乐播(切)","type":1,"api":"https://lbapi9.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"丝袜资源","name":"丝袜资源(切)","type":1,"api":"https://siwazyw.tv/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
-{"key":"我要啪啪","name":"我要啪啪(切)","type":0,"api":"https://www.caiji21.com/cjapi/sda/vod/xml","searchable":1,"quickSearch":1},
-{"key":"AV集中淫","name":"AV集中淫(切)","type":0,"api":"https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml","searchable":1,"quickSearch":1},
-{"key":"夜夜撸资源","name":"夜夜撸资源(切)","type":0,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml","searchable":1,"quickSearch":1},
-{"key":"咪咪资源","name":"咪咪资源(切)","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml","searchable":1,"quickSearch":1},
-{"key":"鲍鱼AV","name":"鲍鱼AV(切)","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","searchable":1,"quickSearch":1},
+{"key":"奥斯卡资源","name":"奥斯卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"精工厂资源","name":"精工厂资源(切)","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"点点娱乐","name":"点点娱乐(切)","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"淫人妻资源","name":"淫人妻资源(切)","type":0,"api":"http://www.yrqcaiji.com/home/cjapi/s6c7/mc10/vod/xml","searchable":1,"quickSearch":1},
