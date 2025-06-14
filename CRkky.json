@@ -7,7 +7,7 @@
     {"key":"博天堂","name":"博天堂(切)","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
     {"key":"桃花资源",
     "name":"桃花资源",
-    "type":1,
+    "type":0,
     "api":"https://thzy1.me/api.php/provide/vod/at/xml",
     "searchable":1,
     "quickSearch":1,
@@ -16,7 +16,7 @@
     {"key":"老色逼资源站",
     "name":"老色逼资源站",
     "type":1,
-    "api":"https://apilsbzy9.com/api.php/provide/vod/?ac=list",
+    "api":"https://apilsbzy8.com/api.php/provide/vod/?ac=list",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
