@@ -2,8 +2,17 @@
   "spider": "http://dd.ma/CFlLnSbJ",
   "wallpaper": "http://api.btstu.cn/sjbz",
   "sites": [
+{"key":"csp_biubiu_黄仓库","name": "黄仓库","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XBAdult/_黄仓库.json"},
+//{"key": "csp_biubiu_新香蕉","name": "新香蕉","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XBAdult/_新香蕉.json"},
+{"key":"csp_biubiu_大中国","name": "大中国","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XBAdult/_大中国.json"},
+{"key":"csp_biubiu_四虎","name": "四虎","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XBAdult/四虎.json"},
+{"key":"csp_biubiu_5G影院","name": "5G影院","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XBAdult/5G影院.json"},
+{"key":"csp_biubiu_xxj","name": "新香蕉","type": 3,"api": "csp_XBiubiuMy","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XPAdult/2024xxj.json"},
+//{"key": "csp_biubiu_AVTB","name": "AV淘宝","type": 3,"api": "csp_XBiubiuMy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XBAdult/AV淘宝.json"},
+{"key":"csp_biubiu_GAOAA","name": "GAOAA(慢)","type": 3,"api": "csp_XBiubiuMy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XBAdult/GAOAA.json"},
+{"key":"鲨鱼","name":"鲨鱼(切)","type":1,"api":"https://shayuapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"乐播","name":"乐播(切)","type":1,"api":"https://lbapi9.com/api.php/provide/vod","searchable":1,"quickSearch":1},
-{"key":"丝袜资源","name":"丝袜资源(切)","type":1,"api":"https://siwazyw.tv/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
+{"key":"丝袜资源","name":"丝袜资源(切)","type":1,"api":"https://siwazyw.cc/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"秀色资源","name":"秀色资源(切)","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"探探资源","name":"探探资源(切)","type":1,"api":"https://apittzy.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"色窝资源","name":"色窝资源(切)","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -70,7 +79,15 @@
 {"key":"美少女资源","name":"美少女资源(切)","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"淫水机资源","name":"淫水机资源(切)","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"香奶儿资源","name":"香奶儿资源(切)","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1},
-{"key":"白嫖资源","name":"白嫖资源(切)","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1}
+{"key":"白嫖资源","name":"白嫖资源(切)","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1},
+{"key":"小湿妹资源","name":"小湿妹资源(切)","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1},
+{"key":"黄AV资源","name":"黄AV资源(切)","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1},
+// 解析问题
+{"key":"JAV名优馆","name":"JAV名优馆(切)","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":1},
+{"key":"久草资源","name":"久草资源(切)","type":0,"api":"http://jcspcj8.com/api?ac=videolist","searchable":1,"quickSearch":1},
+{"key":"富二代资源","name":"富二代资源(切)","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":1},
+{"key":"字幕网","name":"字幕网(切)","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","searchable":1,"quickSearch":1},
+{"key":"利来资源","name":"利来资源(切)","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","searchable":1,"quickSearch":1}
   ],
   "parses": [
     {
