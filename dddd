@@ -55,7 +55,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/duboku.json"
+      "ext": "./json/獨播.json"
     },
     {
       "key": "aoo.qoqoavideo2.sbs",
