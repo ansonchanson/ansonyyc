@@ -29,14 +29,6 @@
     "quickSearch": 1,
     "filterable": 0 
     },
-    {"key": "滴滴资源",
-    "name": "滴滴资源",
-    "type": 1,
-    "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list", 
-    "searchable": 1,
-    "quickSearch": 1, 
-    "filterable": 0 
-    },
     {"key": "155资源",
     "name": "155资源",
     "type": 1,
