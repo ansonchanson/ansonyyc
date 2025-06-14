@@ -1,7 +1,7 @@
 {
-    "spider": "./spider.jar",
-    "wallpaper": "http://wenxintongxue.serv00.net/image",
-    "logo": "https://4708.kstore.space/logo.gif",
+    "spider": "./Jar/开心nice.jar",
+    "wallpaper": "./Tup/05.png",
+    "logo": "./tUP/logo.gif",
     "sites": [
         {
             "key": "豆瓣",
@@ -105,7 +105,7 @@
             "name": "吉吉｜短剧",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./XBPQ/吉吉短剧.json"
+            "ext": "./Json/吉吉短剧.json"
         },
         {
             "key": "爱我短剧",
@@ -115,14 +115,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/爱我短剧.json"
+            "ext": "./Json/爱我短剧.json"
         },
         {
             "key": "短剧网",
             "name": "短剧网｜短剧",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./XBPQ/短剧网.json"
+            "ext": "./Json/短剧网.json"
         },
         {
             "key": "短剧屋",
@@ -132,7 +132,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/短剧屋.json"
+            "ext": "./Json/短剧屋.json"
         },
         {
             "key": "韩小圈",
@@ -307,35 +307,35 @@
             "name": "可可｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./XBPQ/可可影视.json"
+            "ext": "./Json/可可影视.json"
         },
         {
             "key": "面包影视",
             "name": "面包｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./XBPQ/面包影视.json"
+            "ext": "./Json/面包影视.json"
         },
         {
             "key": "永乐影视",
             "name": "永乐｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./XBPQ/永乐影视.json"
+            "ext": "./Json/永乐影视.json"
         },
         {
             "key": "雪糕影视",
             "name": "雪糕｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./XBPQ/雪糕影视.json"
+            "ext": "./Json/雪糕影视.json"
         },
         {
             "key": "流光影视",
             "name": "流光｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./XBPQ/流光影视.json"
+            "ext": "./Json/流光影视.json"
         },
         {
             "key": "耐看影视",
@@ -360,8 +360,8 @@
             "key": "剧圈圈",
             "name": "剧圈圈｜影视",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/剧圈圈.js"
+            "api": "./Js/drpy2.min.js",
+            "ext": "./Js/剧圈圈.js"
         },
         {
             "key": "1905",
@@ -575,7 +575,7 @@
             "style": {
                 "type": "list"
             },
-            "ext": "./XBPQ/哆啦新番社.json"
+            "ext": "./Json/哆啦新番社.json"
         },
         {
             "key": "稀饭动漫",
@@ -595,7 +595,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/修罗影视.json"
+            "ext": "./Json/修罗影视.json"
         },
         {
             "key": "80S",
@@ -652,7 +652,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/电影港.json"
+            "ext": "./Json/电影港.json"
         },
         {
             "key": "布谷TV",
@@ -662,7 +662,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/布谷TV.json"
+            "ext": "./Json/布谷TV.json"
         },
         {
             "key": "BT天堂",
@@ -672,7 +672,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/BT天堂.json"
+            "ext": "./Json/BT天堂.json"
         },
       {
             "key": "酷吧电影",
@@ -760,7 +760,7 @@
             "indexs": 0,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "share": "./JS/alishare.txt"
+                "share": "./Txt/alishare.txt"
             },
             "style": {
                 "type": "list"
@@ -797,7 +797,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "./wex.jar"
+            "jar": "./Jar/影视配置.jar"
         },
         {
             "key": "push_agent",
