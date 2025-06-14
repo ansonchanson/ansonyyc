@@ -4,7 +4,7 @@
     {
       "name": "adult_2023",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2023.txt",
+      "url": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2023.txt",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "",
@@ -13,7 +13,7 @@
     {
       "name": "madou",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/madou.txt",
+      "url": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/madou.txt",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "",
@@ -22,7 +22,7 @@
     {
       "name": "18_adult",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/18_adult.txt",
+      "url": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/18_adult.txt",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "",
@@ -31,7 +31,7 @@
     {
       "name": "adult_2",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2.txt",
+      "url": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2.txt",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "",
@@ -40,7 +40,7 @@
     {
       "name": "adult",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult.txt",
+      "url": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult.txt",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "",
@@ -55,7 +55,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/duboku.json"
+      "ext": "./Json/duboku.json"
     },
     {
       "key": "aoo.qoqoavideo2.sbs",
@@ -72,7 +72,7 @@
         "分类url": "https://w15o.qoqoavideo2.xyz/vodtype/{cateId}/page/{catePg}.html",
         "分类": "中文字幕$154#国产情色$151#日本无码$162#动漫$150#国产传媒$146#少女萝莉$164"
       },
-      "jar": "./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c"
+      "jar": "./Jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c"
     },
     {
       "key": "msv ",
